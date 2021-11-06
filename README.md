@@ -1,16 +1,5 @@
 # What's up 👋🏽
 
-<div align="center">
-  <img
-    alt="A portrait photo of Javi Llerenas"
-    src="images/javi.jpg"
-    width="175px"
-    style="border-radius:5%"
-  />
-  <p>
-  <strong>javi balvin 🔥</strong></p>
-</div>
-
 My name's Javi. I'm a software engineer specializing in **front end engineering** and **serverless app development**. I live in Las Vegas NV 🎰 Why? Cause it's lit 🤟🏽
 
 ## 🥞 My stack
