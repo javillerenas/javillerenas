@@ -13,7 +13,7 @@ Tech stacks change all the time. At the moment of this writing (Nov 2021), my cu
 
 ## 📚 Currently learning
 
-The best and worst thing about me is that I get super excited about almost anything new. On my spare time, I am learning:
+The best and worst thing about me is that I get super excited about almost anything new. On my spare time I'm currently learning:
 
 - 🕹 Game development (with Unity)
 - ⚛️ Blockchain development (in $SOLana 🚀)
