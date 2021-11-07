@@ -24,27 +24,6 @@ The best and worst thing about me is that I get super excited about almost anyth
 - prev: [AWS](https://aws.amazon.com/) in the ProServe team
 - prev: [RedEye Apps](https://www.redeye.co/) doing stuff with Vue
 
-## My puppy
-
-I am the proud dad of a beautiful malti-poo: Coco.
-
-<div align="center">
-  <img
-    alt="A portrait photo of Javi Llerenas"
-    src="images/coco.jpg"
-    width="250px"
-    style="border-radius:5%"
-  />
-  <p>
-  <strong>The beautiful coco baby 🐶</strong></p>
-</div>
-
-## Collectibles
-
-I am pretty passionate about NFTs (because of the huge potential to disrupt many industries – gaming for example). Below is a quick image of my favorite holdings:
-
-![My top NFT holdings](./images/nfts.png)
-
 <!--
 Made with 🧠
 -->
