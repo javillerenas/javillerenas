@@ -1,6 +1,6 @@
 # What's up 👋🏽
 
-I'm Javi, a software engineer specializing in **front end engineering** and **serverless web app development**. I live in Las Vegas NV 🎰 
+I'm Javi, a software engineer specializing in **front end engineering** and **serverless apps** (with AWS). I live in Las Vegas NV 🎰 
 
 | 👉🏽 Check out my website: www.javi.rocks 🔥🤟🏽😎
 
