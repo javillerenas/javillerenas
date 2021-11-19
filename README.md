@@ -2,6 +2,8 @@
 
 I'm Javi, a software engineer specializing in **front end engineering** and **serverless web app development**. I live in Las Vegas NV 🎰 
 
+| 👉🏽 Check out my website: www.javi.rocks 🔥🤟🏽😎
+
 ## 🥞 My stack
 
 Tech stacks change all the time. At the moment of this writing (Nov 2021), my current tech stack is:
