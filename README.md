@@ -17,9 +17,9 @@ Tech stacks change all the time. At the moment of this writing (Nov 2021), my cu
 
 I am a very creative person and are always trying to learn new tech to express myself:
 
-- 🕹 Game development (with Unity)
 - ⚛️ Blockchain development (in $SOLana 🚀)
 - ⭐️ 3D Modelling (in Blender)
+- 🕹 Game development
 
 ## 💼 Career
 
