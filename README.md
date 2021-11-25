@@ -11,7 +11,10 @@ Tech stacks change all the time. At the moment of this writing (Nov 2021), my cu
 - [React](https://github.com/facebook/react) and [Next.js](https://github.com/vercel/next.js)
 - [TypeScript](https://github.com/microsoft/TypeScript)
 - [Chakra UI](https://github.com/chakra-ui/chakra-ui)
+- [Figma](https://figma.com/)
 - Serverless AWS services (S3, DDB, AppSync, Lambda, etc.)
+- IaC with AWS CDK
+- CICD pipelines with AWS Codepipeline
 
 ## 📚 Currently learning
 
