@@ -16,20 +16,10 @@ Tech stacks change all the time. At the moment of this writing (Nov 2021), my cu
 - IaC with AWS CDK
 - CICD pipelines with AWS Codepipeline
 
-## 📚 Currently learning
-
-I am a very creative person and are always trying to learn new tech to express myself:
-
-- ⚛️ Blockchain development (in $SOLana 🚀)
-- ⭐️ 3D Modelling (in Blender)
-- 🕹 Game development
-
 ## 💼 Career
 
-- Currently I work at [Opendoor](https://www.opendoor.com/) 🏡 in the Seller Products team! 🔥
-- prev: [AWS](https://aws.amazon.com/) ☁️ in the ProServe team
+- Currently I work at [Opendoor](https://www.opendoor.com/) 🏡 in the Sell Direct team! 🔥
+- prev: [AWS](https://aws.amazon.com/) ☁️ in the ProServe team building serverless react apps
 - prev: [RedEye Apps](https://www.redeye.co/) 🟥 doing stuff with Vue
 
-<!--
-Made with 🧠
--->
+<!-- Made with 🧠 -->
